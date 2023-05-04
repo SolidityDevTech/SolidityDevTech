@@ -7,4 +7,4 @@
 
 <br/>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=tklindt&show_icons=true&theme=vue)
+![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=tklindt&count_private=true&show_icons=true&theme=radical)
