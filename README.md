@@ -1,4 +1,4 @@
-### Hi there 👋  I am Tommy with DevTeamSix
+### Hi there 👋  I am Tommy a Solidity Engineer and Web3 Developer.
 
 - 🔭 I’m currently working on developing amazing Blockchain technology and projects to change the world!
 - 👯 I’m looking to collaborate on all things Crypto!
@@ -7,4 +7,3 @@
 
 <br/>
 
-![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=tklindt&count_private=true&show_icons=true&theme=radical)
