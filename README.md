@@ -5,6 +5,4 @@
 - :airplane: I love to work hard so that I can travel the world!
 - 📫 How to reach me: <a href="https://t.me/DevTeam_CSO">Telegram</a>
 
-[![Tommy's github stats](https://github-readme-stats-lac-ten-44.vercel.app/api?username=tklindt&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=stars&rank_icon=github)]
-
-![Top Langs](https://github-readme-stats-lac-ten-44.vercel.app/api/top-langs/?username=tklindt)
+![Tommy's github stats](https://github-readme-stats-lac-ten-44.vercel.app/api?username=tklindt&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=stars&rank_icon=github)
